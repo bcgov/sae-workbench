@@ -137,7 +137,7 @@
     "node-sass": "^4.5.3",
     "nodemon": "^1.9.2",
     "null-loader": "^0.1.1",
-    "nyc": "^6.4.4",
+    "nyc": "^15.1.0",
     "postcss-cssnext": "^3.0.2",
     "postcss-focus": "^3.0.0",
     "postcss-get-sass-variables": "^1.1.0",
